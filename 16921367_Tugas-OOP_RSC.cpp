@@ -6,10 +6,10 @@ class circle {
 
     //Attributes
     public:
-        int radius;
+        double radius;
 
         //Methods
-        void setRadius(int radiusValue) {
+        void setRadius(double radiusValue) {
              radius = radiusValue;
         }
         double getRadius() {
