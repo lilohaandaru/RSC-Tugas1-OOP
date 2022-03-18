@@ -48,7 +48,7 @@ int main() {
     //Object 3
     circle circle3;
 
-    circle3.setRadius(15);
+    circle3.setRadius(20);
     cout << "circle 3"          << "\n";
     cout << "Radius: "          << circle3.getRadius() << "\n";
     cout << "Area: "            << circle3.getArea() << "\n";
